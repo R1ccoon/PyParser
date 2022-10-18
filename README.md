@@ -9,4 +9,8 @@ A simple program with GUI for collect data from FB, INST, VK
 
 ◉	Very simple UI
 
-◉	
+## used lib
+◉	Pyrebase
+
+◉	PyQT5 & SYS
+
